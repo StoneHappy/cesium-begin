@@ -5,3 +5,5 @@ html, body, #cesiumContainer {
 	padding: 0;
 	overflow: hidden;
 }
+
+#toggle-building { z-index: 1; position: fixed; top: 5px; left: 5px; }
